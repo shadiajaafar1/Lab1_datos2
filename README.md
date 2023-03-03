@@ -2,3 +2,4 @@
 ## Grupo:
 ### - Mariana Castañeda Torres
 ### - Hans Lubinus Rasch
+### - Shadia Jaafar Ferreiira
